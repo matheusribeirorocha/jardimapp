@@ -9,5 +9,3 @@
   <img src="https://images.icon-icons.com/2790/PNG/96/css_filetype_icon_177544.png" alt="logo do django" width="45px">
 </p>
 
-
-
